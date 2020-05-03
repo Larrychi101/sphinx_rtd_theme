@@ -3,24 +3,24 @@
 # This file is distributed under the same license as the sphinx_rtd_theme
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-# 
+#
 # Translators:
 # Anthony <aj@ohess.org>, 2019
-# 
 msgid ""
 msgstr ""
 "Project-Id-Version: sphinx_rtd_theme 0.4.3.dev0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 16:18-0600\n"
+"POT-Creation-Date: 2020-05-03 12:51-0600\n"
 "PO-Revision-Date: 2019-07-16 21:44+0000\n"
 "Last-Translator: Anthony <aj@ohess.org>, 2019\n"
-"Language-Team: Spanish (https://www.transifex.com/readthedocs/teams/101354/es/)\n"
+"Language: es\n"
+"Language-Team: Spanish "
+"(https://www.transifex.com/readthedocs/teams/101354/es/)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: sphinx_rtd_theme/breadcrumbs.html:43 sphinx_rtd_theme/breadcrumbs.html:45
 msgid "Edit on GitHub"
@@ -106,8 +106,7 @@ msgstr "Logotipo"
 
 #: sphinx_rtd_theme/search.html:29
 msgid "Please activate JavaScript to enable the search functionality."
-msgstr ""
-"Por favor, active JavaScript para habilitar la funcionalidad de búsqueda."
+msgstr "Por favor, active JavaScript para habilitar la funcionalidad de búsqueda."
 
 #. Search is a noun, not a verb
 #: sphinx_rtd_theme/search.html:37
@@ -116,11 +115,11 @@ msgstr "Resultados de la búsqueda"
 
 #: sphinx_rtd_theme/search.html:39
 msgid ""
-"Your search did not match any documents. Please make sure that all words are"
-" spelled correctly and that you've selected enough categories."
+"Your search did not match any documents. Please make sure that all words "
+"are spelled correctly and that you've selected enough categories."
 msgstr ""
-"Su búsqueda no coincide con ningún documento. Por favor, asegúrese de que "
-"todas las palabras estén correctamente escritas y que usted haya "
+"Su búsqueda no coincide con ningún documento. Por favor, asegúrese de que"
+" todas las palabras estén correctamente escritas y que usted haya "
 "seleccionado las suficientes categorías."
 
 #: sphinx_rtd_theme/searchbox.html:4
@@ -153,3 +152,4 @@ msgstr "Construcciones"
 
 #~ msgid "Free document hosting provided by"
 #~ msgstr "Alojamiento gratuito de documentos proporcionado por"
+

@@ -3,24 +3,24 @@
 # This file is distributed under the same license as the sphinx_rtd_theme
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-# 
+#
 # Translators:
 # Jesse Tan, 2019
-# 
 msgid ""
 msgstr ""
 "Project-Id-Version: sphinx_rtd_theme 0.4.3.dev0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 16:18-0600\n"
+"POT-Creation-Date: 2020-05-03 12:51-0600\n"
 "PO-Revision-Date: 2019-07-16 21:44+0000\n"
 "Last-Translator: Jesse Tan, 2019\n"
-"Language-Team: Dutch (https://www.transifex.com/readthedocs/teams/101354/nl/)\n"
+"Language: nl\n"
+"Language-Team: Dutch "
+"(https://www.transifex.com/readthedocs/teams/101354/nl/)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: sphinx_rtd_theme/breadcrumbs.html:43 sphinx_rtd_theme/breadcrumbs.html:45
 msgid "Edit on GitHub"
@@ -115,11 +115,11 @@ msgstr "Zoekresultaten"
 
 #: sphinx_rtd_theme/search.html:39
 msgid ""
-"Your search did not match any documents. Please make sure that all words are"
-" spelled correctly and that you've selected enough categories."
+"Your search did not match any documents. Please make sure that all words "
+"are spelled correctly and that you've selected enough categories."
 msgstr ""
-"Zoekpoging vond geen documenten. Zorg ervoor dat alle woorden correct zijn "
-"gespeld en dat voldoende categorieën zijn geselecteerd."
+"Zoekpoging vond geen documenten. Zorg ervoor dat alle woorden correct "
+"zijn gespeld en dat voldoende categorieën zijn geselecteerd."
 
 #: sphinx_rtd_theme/searchbox.html:4
 msgid "Search docs"
@@ -151,3 +151,4 @@ msgstr "Bouwresultaten"
 
 #~ msgid "Free document hosting provided by"
 #~ msgstr "Gratis hosting voor documentatie verzorgd door"
+
